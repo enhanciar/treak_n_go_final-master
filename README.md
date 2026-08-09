@@ -74,3 +74,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 <!-- webhook test 2: incremental gate + cloud tasks -->
 
 <!-- webhook test 3 -->
+
+<!-- enhanciar: re-detect Firestore collections from code (2026-08-09) -->
